@@ -1,9 +1,9 @@
 # LinuxTPMChipSuppressor
 Disable TPM Chip!
 # Requirement
- *toilet
- *Python3
- *Root permission
+ *toilet<br/>
+ *Python3<br/>
+ *Root permission<br/>
 # How to setup toilet
 apt-get install toilet
 # How to run this script?
