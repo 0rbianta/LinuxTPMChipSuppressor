@@ -1,0 +1,2 @@
+# LinuxTPMChipSuppressor
+Disable TPM Chip!
